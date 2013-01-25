@@ -1,0 +1,14 @@
+Todo:
+apk -- both crude and entropy-based
+baseline correction
+peak fitting and/or cumsum
+
+Maybe:
+get some varian files to look at the format
+read binary bruker fid directly in python
+extract pars direction in python
+
+Done:
+read bruker + par
+
+
